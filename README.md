@@ -1,4 +1,4 @@
-# habitica_hacks
+# The improved multi-platform habitica_hacks
 Scripts for habitica based fun
 
 ## Scripts
